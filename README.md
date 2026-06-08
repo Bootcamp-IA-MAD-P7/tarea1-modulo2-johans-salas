@@ -1,8 +1,4 @@
-# 📊 Investigación: Análisis Exploratorio de Datos (EDA)
-
-> **Asignatura:** Análisis de Datos con Python  
-> **Tipo:** Investigación estudiantil  
-> **Nivel:** Introductorio — lenguaje accesible para todos los públicos  
+# 📊 Tarea: Investigación y Desarrollo de un Análisis Exploratorio de Datos (EDA)
 
 ---
 
